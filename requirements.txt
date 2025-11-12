@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+ccxt
+backtrader
+vectorbt
+scikit-learn
+jupyterlab
+scipy
